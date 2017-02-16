@@ -1,0 +1,11 @@
+div.nav-tab{
+  background-color: tan;
+  border-style: solid;
+}
+a.nav-tab{
+  text-decoration: none;
+  text-decoration-color: red;
+}
+div.nav-tab:hover{
+  color: red;
+}
